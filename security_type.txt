@@ -1,0 +1,501 @@
+Security|Industry|Sub-Industry|State
+3M|Industrials|Industrial Conglomerates|Saint Paul, Minnesota
+A. O. Smith|Industrials|Building Products|Milwaukee, Wisconsin
+Abbott Laboratories|Health Care|Health Care Equipment|North Chicago, Illinois
+AbbVie|Health Care|Biotechnology|North Chicago, Illinois
+Accenture|Information Technology|IT Consulting & Other Services|Dublin, Ireland
+Adobe  |Information Technology|Application Software|San Jose, California
+Advanced Micro Devices|Information Technology|Semiconductors|Santa Clara, California
+AES Corporation|Utilities|Independent Power Producers & Energy Traders|Arlington, Virginia
+Aflac|Financials|Life & Health Insurance|Columbus, Georgia
+Agilent Technologies|Health Care|Life Sciences Tools & Services|Santa Clara, California
+Air Products|Materials|Industrial Gases|Upper Macungie Township, Pennsylvania
+Airbnb|Consumer Discretionary|Hotels, Resorts & Cruise Lines|San Francisco, California
+Akamai Technologies|Information Technology|Internet Services & Infrastructure|Cambridge, Massachusetts
+Albemarle Corporation|Materials|Specialty Chemicals|Charlotte, North Carolina
+Alexandria Real Estate Equities|Real Estate|Office REITs|Pasadena, California
+Align Technology|Health Care|Health Care Supplies|Tempe, Arizona
+Allegion|Industrials|Building Products|Dublin, Ireland
+Alliant Energy|Utilities|Electric Utilities|Madison, Wisconsin
+Allstate|Financials|Property & Casualty Insurance|Northbrook, Illinois
+Alphabet   |Communication Services|Interactive Media & Services|Mountain View, California
+Altria|Consumer Staples|Tobacco|Richmond, Virginia
+Amazon|Consumer Discretionary|Broadline Retail|Seattle, Washington
+Amcor|Materials|Paper & Plastic Packaging Products & Materials|Warmley, Bristol, United Kingdom
+Amentum|Industrials|Diversified Support Services|Chantilly, Virginia
+Ameren|Utilities|Multi-Utilities|St. Louis, Missouri
+American Electric Power|Utilities|Electric Utilities|Columbus, Ohio
+American Express|Financials|Consumer Finance|New York City, New York
+American International Group|Financials|Multi-line Insurance|New York City, New York
+American Tower|Real Estate|Telecom Tower REITs|Boston, Massachusetts
+American Water Works|Utilities|Water Utilities|Camden, New Jersey
+Ameriprise Financial|Financials|Asset Management & Custody Banks|Minneapolis, Minnesota
+Ametek|Industrials|Electrical Components & Equipment|Berwyn, Pennsylvania
+Amgen|Health Care|Biotechnology|Thousand Oaks, California
+Amphenol|Information Technology|Electronic Components|Wallingford, Connecticut
+Analog Devices|Information Technology|Semiconductors|Wilmington, Massachusetts
+Ansys|Information Technology|Application Software|Canonsburg, Pennsylvania
+Aon|Financials|Insurance Brokers|London, UK
+APA Corporation|Energy|Oil & Gas Exploration & Production|Houston, Texas
+Apple  |Information Technology|Technology Hardware, Storage & Peripherals|Cupertino, California
+Applied Materials|Information Technology|Semiconductor Materials & Equipment|Santa Clara, California
+Aptiv|Consumer Discretionary|Automotive Parts & Equipment|Dublin, Ireland
+Arch Capital Group|Financials|Property & Casualty Insurance|Hamilton, Bermuda
+Archer Daniels Midland|Consumer Staples|Agricultural Products & Services|Chicago, Illinois
+Arista Networks|Information Technology|Communications Equipment|Santa Clara, California
+Arthur J. Gallagher & Co.|Financials|Insurance Brokers|Rolling Meadows, Illinois
+Assurant|Financials|Multi-line Insurance|Atlanta, Georgia
+AT&T|Communication Services|Integrated Telecommunication Services|Dallas, Texas
+Atmos Energy|Utilities|Gas Utilities|Dallas, Texas
+Autodesk|Information Technology|Application Software|San Francisco, California
+Automatic Data Processing|Industrials|Human Resource & Employment Services|Roseland, New Jersey
+AutoZone|Consumer Discretionary|Automotive Retail|Memphis, Tennessee
+AvalonBay Communities|Real Estate|Multi-Family Residential REITs|Arlington, Virginia
+Avery Dennison|Materials|Paper & Plastic Packaging Products & Materials|Mentor, Ohio
+Axon Enterprise|Industrials|Aerospace & Defense|Scottsdale, Arizona
+Baker Hughes|Energy|Oil & Gas Equipment & Services|Houston, Texas
+Ball Corporation|Materials|Metal, Glass & Plastic Containers|Broomfield, Colorado
+Bank of America|Financials|Diversified Banks|Charlotte, North Carolina
+Baxter International|Health Care|Health Care Equipment|Deerfield, Illinois
+Becton Dickinson|Health Care|Health Care Equipment|Franklin Lakes, New Jersey
+Berkshire Hathaway|Financials|Multi-Sector Holdings|Omaha, Nebraska
+Best Buy|Consumer Discretionary|Computer & Electronics Retail|Richfield, Minnesota
+Bio-Techne|Health Care|Life Sciences Tools & Services|Minneapolis, Minnesota
+Biogen|Health Care|Biotechnology|Cambridge, Massachusetts
+BlackRock|Financials|Asset Management & Custody Banks|New York City, New York
+Blackstone  |Financials|Asset Management & Custody Banks|New York City, New York
+BNY Mellon|Financials|Asset Management & Custody Banks|New York City, New York
+Boeing|Industrials|Aerospace & Defense|Arlington, Virginia
+Booking Holdings|Consumer Discretionary|Hotels, Resorts & Cruise Lines|Norwalk, Connecticut
+BorgWarner|Consumer Discretionary|Automotive Parts & Equipment|Auburn Hills, Michigan
+Boston Scientific|Health Care|Health Care Equipment|Marlborough, Massachusetts
+Bristol Myers Squibb|Health Care|Pharmaceuticals|New York City, New York
+Broadcom|Information Technology|Semiconductors|Palo Alto, California
+Broadridge Financial Solutions|Industrials|Data Processing & Outsourced Services|Lake Success, New York
+Brown & Brown|Financials|Insurance Brokers|Daytona Beach, Florida
+Brown–Forman|Consumer Staples|Distillers & Vintners|Louisville, Kentucky
+Builders FirstSource|Industrials|Building Products|Irving, Texas
+Bunge Global|Consumer Staples|Agricultural Products & Services|Chesterfield, Missouri
+BXP,  |Real Estate|Office REITs|Boston, Massachusetts
+C.H. Robinson|Industrials|Air Freight & Logistics|Eden Prairie, Minnesota
+Cadence Design Systems|Information Technology|Application Software|San Jose, California
+Caesars Entertainment|Consumer Discretionary|Casinos & Gaming|Reno, Nevada
+Camden Property Trust|Real Estate|Multi-Family Residential REITs|Houston, Texas
+Campbell Soup Company|Consumer Staples|Packaged Foods & Meats|Camden, New Jersey
+Capital One|Financials|Consumer Finance|Tysons Corner, Virginia
+Cardinal Health|Health Care|Health Care Distributors|Dublin, Ohio
+CarMax|Consumer Discretionary|Automotive Retail|Richmond, Virginia
+Carnival|Consumer Discretionary|Hotels, Resorts & Cruise Lines|Miami, Florida
+Carrier Global|Industrials|Building Products|Palm Beach Gardens, Florida
+Catalent|Health Care|Pharmaceuticals|Somerset, New Jersey
+Caterpillar  |Industrials|Construction Machinery & Heavy Transportation Equipment|Irving, Texas
+Cboe Global Markets|Financials|Financial Exchanges & Data|Chicago, Illinois
+CBRE Group|Real Estate|Real Estate Services|Dallas, Texas
+CDW|Information Technology|Technology Distributors|Vernon Hills, Illinois
+Celanese|Materials|Specialty Chemicals|Irving, Texas
+Cencora|Health Care|Health Care Distributors|Conshohocken, Pennsylvania
+Centene Corporation|Health Care|Managed Health Care|St. Louis, Missouri
+CenterPoint Energy|Utilities|Multi-Utilities|Houston, Texas
+CF Industries|Materials|Fertilizers & Agricultural Chemicals|Deerfield, Illinois
+Charles River Laboratories|Health Care|Life Sciences Tools & Services|Wilmington, Massachusetts
+Charles Schwab Corporation|Financials|Investment Banking & Brokerage|Westlake, Texas
+Charter Communications|Communication Services|Cable & Satellite|Stamford, Connecticut
+Chevron Corporation|Energy|Integrated Oil & Gas|San Ramon, California
+Chipotle Mexican Grill|Consumer Discretionary|Restaurants|Newport Beach, California
+Chubb Limited|Financials|Property & Casualty Insurance|Zurich, Switzerland
+Church & Dwight|Consumer Staples|Household Products|Ewing, New Jersey
+Cigna|Health Care|Health Care Services|Bloomfield, Connecticut
+Cincinnati Financial|Financials|Property & Casualty Insurance|Fairfield, Ohio
+Cintas|Industrials|Diversified Support Services|Mason, Ohio
+Cisco|Information Technology|Communications Equipment|San Jose, California
+Citigroup|Financials|Diversified Banks|New York City, New York
+Citizens Financial Group|Financials|Regional Banks|Providence, Rhode Island
+Clorox|Consumer Staples|Household Products|Oakland, California
+CME Group|Financials|Financial Exchanges & Data|Chicago, Illinois
+CMS Energy|Utilities|Multi-Utilities|Jackson, Michigan
+Coca-Cola Company |Consumer Staples|Soft Drinks & Non-alcoholic Beverages|Atlanta, Georgia
+Cognizant|Information Technology|IT Consulting & Other Services|Teaneck, New Jersey
+Colgate-Palmolive|Consumer Staples|Household Products|New York City, New York
+Comcast|Communication Services|Cable & Satellite|Philadelphia, Pennsylvania
+Conagra Brands|Consumer Staples|Packaged Foods & Meats|Chicago, Illinois
+ConocoPhillips|Energy|Oil & Gas Exploration & Production|Houston, Texas
+Consolidated Edison|Utilities|Multi-Utilities|New York City, New York
+Constellation Brands|Consumer Staples|Distillers & Vintners|Rochester, New York
+Constellation Energy|Utilities|Electric Utilities|Baltimore, Maryland
+Cooper Companies |Health Care|Health Care Supplies|San Ramon, California
+Copart|Industrials|Diversified Support Services|Dallas, Texas
+Corning  |Information Technology|Electronic Components|Corning, New York
+Corpay|Financials|Transaction & Payment Processing Services|Atlanta, Georgia
+Corteva|Materials|Fertilizers & Agricultural Chemicals|Indianapolis, Indiana
+CoStar Group|Real Estate|Real Estate Services|Washington, D.C.
+Costco|Consumer Staples|Consumer Staples Merchandise Retail|Issaquah, Washington
+Coterra|Energy|Oil & Gas Exploration & Production|Houston, Texas
+CrowdStrike|Information Technology|Systems Software|Austin, Texas
+Crown Castle|Real Estate|Telecom Tower REITs|Houston, Texas
+CSX Corporation|Industrials|Rail Transportation|Jacksonville, Florida
+Cummins|Industrials|Construction Machinery & Heavy Transportation Equipment|Columbus, Indiana
+CVS Health|Health Care|Health Care Services|Woonsocket, Rhode Island
+Danaher Corporation|Health Care|Life Sciences Tools & Services|Washington, D.C.
+Darden Restaurants|Consumer Discretionary|Restaurants|Orlando, Florida
+DaVita|Health Care|Health Care Services|Denver, Colorado
+Dayforce|Industrials|Human Resource & Employment Services|Minneapolis, Minnesota
+Deckers Brands|Consumer Discretionary|Footwear|Goleta, California
+Deere & Company|Industrials|Agricultural & Farm Machinery|Moline, Illinois
+Dell Technologies|Information Technology|Technology Hardware, Storage & Peripherals|Round Rock, Texas
+Delta Air Lines|Industrials|Passenger Airlines|Atlanta, Georgia
+Devon Energy|Energy|Oil & Gas Exploration & Production|Oklahoma City, Oklahoma
+Dexcom|Health Care|Health Care Equipment|San Diego, California
+Diamondback Energy|Energy|Oil & Gas Exploration & Production|Midland, Texas
+Digital Realty|Real Estate|Data Center REITs|Austin, Texas
+Discover Financial|Financials|Consumer Finance|Riverwoods, Illinois
+Dollar General|Consumer Staples|Consumer Staples Merchandise Retail|Goodlettsville, Tennessee
+Dollar Tree|Consumer Staples|Consumer Staples Merchandise Retail|Chesapeake, Virginia
+Dominion Energy|Utilities|Multi-Utilities|Richmond, Virginia
+Domino's|Consumer Discretionary|Restaurants|Ann Arbor, Michigan
+Dover Corporation|Industrials|Industrial Machinery & Supplies & Components|Downers Grove, Illinois
+Dow  |Materials|Commodity Chemicals|Midland, Michigan
+D. R. Horton|Consumer Discretionary|Homebuilding|Arlington, Texas
+DTE Energy|Utilities|Multi-Utilities|Detroit, Michigan
+Duke Energy|Utilities|Electric Utilities|Charlotte, North Carolina
+DuPont|Materials|Specialty Chemicals|Wilmington, Delaware
+Eastman Chemical Company|Materials|Specialty Chemicals|Kingsport, Tennessee
+Eaton Corporation|Industrials|Electrical Components & Equipment|Dublin, Ireland
+eBay|Consumer Discretionary|Broadline Retail|San Jose, California
+Ecolab|Materials|Specialty Chemicals|Saint Paul, Minnesota
+Edison International|Utilities|Electric Utilities|Rosemead, California
+Edwards Lifesciences|Health Care|Health Care Equipment|Irvine, California
+Electronic Arts|Communication Services|Interactive Home Entertainment|Redwood City, California
+Elevance Health|Health Care|Managed Health Care|Indianapolis, Indiana
+Emerson Electric|Industrials|Electrical Components & Equipment|Ferguson, Missouri
+Enphase Energy|Information Technology|Semiconductor Materials & Equipment|Fremont, California
+Entergy|Utilities|Electric Utilities|New Orleans, Louisiana
+EOG Resources|Energy|Oil & Gas Exploration & Production|Houston, Texas
+EPAM Systems|Information Technology|IT Consulting & Other Services|Newtown, Pennsylvania
+EQT Corporation|Energy|Oil & Gas Exploration & Production|Pittsburgh, Pennsylvania
+Equifax|Industrials|Research & Consulting Services|Atlanta, Georgia
+Equinix|Real Estate|Data Center REITs|Redwood City, California
+Equity Residential|Real Estate|Multi-Family Residential REITs|Chicago, Illinois
+Erie Indemnity|Financials|Insurance Brokers|Erie, Pennsylvania
+Essex Property Trust|Real Estate|Multi-Family Residential REITs|San Mateo, California
+Estée Lauder Companies|Consumer Staples|Personal Care Products|New York City, New York
+Everest Group|Financials|Reinsurance|Hamilton, Bermuda
+Evergy|Utilities|Electric Utilities|Kansas City, Missouri
+Eversource Energy|Utilities|Electric Utilities|Hartford, Connecticut
+Exelon|Utilities|Electric Utilities|Chicago, Illinois
+Expedia Group|Consumer Discretionary|Hotels, Resorts & Cruise Lines|Seattle, Washington
+Expeditors International|Industrials|Air Freight & Logistics|Seattle, Washington
+Extra Space Storage|Real Estate|Self-Storage REITs|Salt Lake City, Utah
+ExxonMobil|Energy|Integrated Oil & Gas|Irving, Texas
+F5,  |Information Technology|Communications Equipment|Seattle, Washington
+FactSet|Financials|Financial Exchanges & Data|Norwalk, Connecticut
+Fair Isaac|Information Technology|Application Software|Bozeman, Montana
+Fastenal|Industrials|Trading Companies & Distributors|Winona, Minnesota
+Federal Realty Investment Trust|Real Estate|Retail REITs|Rockville, Maryland
+FedEx|Industrials|Air Freight & Logistics|Memphis, Tennessee
+Fidelity National Information Services|Financials|Transaction & Payment Processing Services|Jacksonville, Florida
+Fifth Third Bancorp|Financials|Regional Banks|Cincinnati, Ohio
+First Solar|Information Technology|Semiconductors|Tempe, Arizona
+FirstEnergy|Utilities|Electric Utilities|Akron, Ohio
+Fiserv|Financials|Transaction & Payment Processing Services|Brookfield, Wisconsin
+FMC Corporation|Materials|Fertilizers & Agricultural Chemicals|Philadelphia, Pennsylvania
+Ford Motor Company|Consumer Discretionary|Automobile Manufacturers|Dearborn, Michigan
+Fortinet|Information Technology|Systems Software|Sunnyvale, California
+Fortive|Industrials|Industrial Machinery & Supplies & Components|Everett, Washington
+Fox Corporation |Communication Services|Broadcasting|New York City, New York
+Franklin Resources|Financials|Asset Management & Custody Banks|San Mateo, California
+Freeport-McMoRan|Materials|Copper|Phoenix, Arizona
+Garmin|Consumer Discretionary|Consumer Electronics|Schaffhausen, Switzerland
+Gartner|Information Technology|IT Consulting & Other Services|Stamford, Connecticut
+GE Aerospace|Industrials|Aerospace & Defense|Evendale, Ohio
+GE HealthCare|Health Care|Health Care Equipment|Chicago, Illinois
+GE Vernova|Industrials|Heavy Electrical Equipment|Cambridge, Massachusetts
+Gen Digital|Information Technology|Systems Software|Tempe, Arizona
+Generac|Industrials|Electrical Components & Equipment|Waukesha, Wisconsin
+General Dynamics|Industrials|Aerospace & Defense|Falls Church, Virginia
+General Mills|Consumer Staples|Packaged Foods & Meats|Golden Valley, Minnesota
+General Motors|Consumer Discretionary|Automobile Manufacturers|Detroit, Michigan
+Genuine Parts Company|Consumer Discretionary|Distributors|Atlanta, Georgia
+Gilead Sciences|Health Care|Biotechnology|Foster City, California
+Global Payments|Financials|Transaction & Payment Processing Services|Atlanta, Georgia
+Globe Life|Financials|Life & Health Insurance|McKinney, Texas
+GoDaddy|Information Technology|Internet Services & Infrastructure|Tempe, Arizona
+Goldman Sachs|Financials|Investment Banking & Brokerage|New York City, New York
+Halliburton|Energy|Oil & Gas Equipment & Services|Houston, Texas
+Hartford |Financials|Property & Casualty Insurance|Hartford, Connecticut
+Hasbro|Consumer Discretionary|Leisure Products|Pawtucket, Rhode Island
+HCA Healthcare|Health Care|Health Care Facilities|Nashville, Tennessee
+Healthpeak Properties|Real Estate|Health Care REITs|Denver, Colorado
+Henry Schein|Health Care|Health Care Distributors|Melville, New York
+Hershey Company |Consumer Staples|Packaged Foods & Meats|Hershey, Pennsylvania
+Hess Corporation|Energy|Integrated Oil & Gas|New York City, New York
+Hewlett Packard Enterprise|Information Technology|Technology Hardware, Storage & Peripherals|Houston, Texas
+Hilton Worldwide|Consumer Discretionary|Hotels, Resorts & Cruise Lines|Tysons Corner, Virginia
+Hologic|Health Care|Health Care Equipment|Marlborough, Massachusetts
+Home Depot |Consumer Discretionary|Home Improvement Retail|Atlanta, Georgia
+Honeywell|Industrials|Industrial Conglomerates|Charlotte, North Carolina
+Hormel Foods|Consumer Staples|Packaged Foods & Meats|Austin, Minnesota
+Host Hotels & Resorts|Real Estate|Hotel & Resort REITs|Bethesda, Maryland
+Howmet Aerospace|Industrials|Aerospace & Defense|Pittsburgh, Pennsylvania
+HP  |Information Technology|Technology Hardware, Storage & Peripherals|Palo Alto, California
+Hubbell Incorporated|Industrials|Industrial Machinery & Supplies & Components|Shelton, Connecticut
+Humana|Health Care|Managed Health Care|Louisville, Kentucky
+Huntington Bancshares|Financials|Regional Banks|Columbus, Ohio; Detroit, Michigan
+Huntington Ingalls Industries|Industrials|Aerospace & Defense|Newport News, Virginia
+IBM|Information Technology|IT Consulting & Other Services|Armonk, New York
+IDEX Corporation|Industrials|Industrial Machinery & Supplies & Components|Lake Forest, Illinois
+Idexx Laboratories|Health Care|Health Care Equipment|Westbrook, Maine
+Illinois Tool Works|Industrials|Industrial Machinery & Supplies & Components|Glenview, Illinois
+Incyte|Health Care|Biotechnology|Wilmington, Delaware
+Ingersoll Rand|Industrials|Industrial Machinery & Supplies & Components|Davidson, North Carolina
+Insulet Corporation|Health Care|Health Care Equipment|Acton, Massachusetts
+Intel|Information Technology|Semiconductors|Santa Clara, California
+Intercontinental Exchange|Financials|Financial Exchanges & Data|Atlanta, Georgia
+International Flavors & Fragrances|Materials|Specialty Chemicals|New York City, New York
+International Paper|Materials|Paper & Plastic Packaging Products & Materials|Memphis, Tennessee
+Interpublic Group of Companies|Communication Services|Advertising|New York City, New York
+Intuit|Information Technology|Application Software|Mountain View, California
+Intuitive Surgical|Health Care|Health Care Equipment|Sunnyvale, California
+Invesco|Financials|Asset Management & Custody Banks|Atlanta, Georgia
+Invitation Homes|Real Estate|Single-Family Residential REITs|Dallas, Texas
+IQVIA|Health Care|Life Sciences Tools & Services|Durham, North Carolina
+Iron Mountain|Real Estate|Other Specialized REITs|Boston, Massachusetts
+J.B. Hunt|Industrials|Cargo Ground Transportation|Lowell, Arkansas
+Jabil|Information Technology|Electronic Manufacturing Services|St. Petersburg, Florida
+Jack Henry & Associates|Financials|Transaction & Payment Processing Services|Monett, Missouri
+Jacobs Solutions|Industrials|Construction & Engineering|Dallas, Texas
+Johnson & Johnson|Health Care|Pharmaceuticals|New Brunswick, New Jersey
+Johnson Controls|Industrials|Building Products|Cork, Ireland
+JPMorgan Chase|Financials|Diversified Banks|New York City, New York
+Juniper Networks|Information Technology|Communications Equipment|Sunnyvale, California
+Kellanova|Consumer Staples|Packaged Foods & Meats|Chicago, Illinois
+Kenvue|Consumer Staples|Personal Care Products|Skillman, New Jersey
+Keurig Dr Pepper|Consumer Staples|Soft Drinks & Non-alcoholic Beverages|Burlington, Massachusetts
+KeyCorp|Financials|Regional Banks|Cleveland, Ohio
+Keysight Technologies|Information Technology|Electronic Equipment & Instruments|Santa Rosa, California
+Kimberly-Clark|Consumer Staples|Household Products|Irving, Texas
+Kimco Realty|Real Estate|Retail REITs|Jericho, New York
+Kinder Morgan|Energy|Oil & Gas Storage & Transportation|Houston, Texas
+KKR|Financials|Asset Management & Custody Banks|New York City, New York
+KLA Corporation|Information Technology|Semiconductor Materials & Equipment|Milpitas, California
+Kraft Heinz|Consumer Staples|Packaged Foods & Meats|Chicago, Illinois; Pittsburgh, Pennsylvania
+Kroger|Consumer Staples|Food Retail|Cincinnati, Ohio
+L3Harris|Industrials|Aerospace & Defense|Melbourne, Florida
+LabCorp|Health Care|Health Care Services|Burlington, North Carolina
+Lam Research|Information Technology|Semiconductor Materials & Equipment|Fremont, California
+Lamb Weston|Consumer Staples|Packaged Foods & Meats|Eagle, Idaho
+Las Vegas Sands|Consumer Discretionary|Casinos & Gaming|Las Vegas, Nevada
+Leidos|Industrials|Diversified Support Services|Reston, Virginia
+Lennar|Consumer Discretionary|Homebuilding|Miami, Florida
+Lilly |Health Care|Pharmaceuticals|Indianapolis, Indiana
+Linde plc|Materials|Industrial Gases|Guildford, United Kingdom
+Live Nation Entertainment|Communication Services|Movies & Entertainment|Beverly Hills, California
+LKQ Corporation|Consumer Discretionary|Distributors|Chicago, Illinois
+Lockheed Martin|Industrials|Aerospace & Defense|Bethesda, Maryland
+Loews Corporation|Financials|Multi-line Insurance|New York City, New York
+Lowe's|Consumer Discretionary|Home Improvement Retail|Mooresville, North Carolina
+Lululemon Athletica|Consumer Discretionary|Apparel, Accessories & Luxury Goods|Vancouver, Canada
+LyondellBasell|Materials|Specialty Chemicals|Rotterdam, Netherlands
+M&T Bank|Financials|Regional Banks|Buffalo, New York
+Marathon Petroleum|Energy|Oil & Gas Refining & Marketing|Findlay, Ohio
+MarketAxess|Financials|Financial Exchanges & Data|New York City, New York
+Marriott International|Consumer Discretionary|Hotels, Resorts & Cruise Lines|Bethesda, Maryland
+Marsh McLennan|Financials|Insurance Brokers|New York City, New York
+Martin Marietta Materials|Materials|Construction Materials|Raleigh, North Carolina
+Masco|Industrials|Building Products|Livonia, Michigan
+Mastercard|Financials|Transaction & Payment Processing Services|Harrison, New York
+Match Group|Communication Services|Interactive Media & Services|Dallas, Texas
+McCormick & Company|Consumer Staples|Packaged Foods & Meats|Hunt Valley, Maryland
+McDonald's|Consumer Discretionary|Restaurants|Chicago, Illinois
+McKesson Corporation|Health Care|Health Care Distributors|Irving, Texas
+Medtronic|Health Care|Health Care Equipment|Dublin, Ireland
+Merck & Co.|Health Care|Pharmaceuticals|Kenilworth, New Jersey
+Meta Platforms|Communication Services|Interactive Media & Services|Menlo Park, California
+MetLife|Financials|Life & Health Insurance|New York City, New York
+Mettler Toledo|Health Care|Life Sciences Tools & Services|Columbus, Ohio
+MGM Resorts|Consumer Discretionary|Casinos & Gaming|Paradise, Nevada
+Microchip Technology|Information Technology|Semiconductors|Chandler, Arizona
+Micron Technology|Information Technology|Semiconductors|Boise, Idaho
+Microsoft|Information Technology|Systems Software|Redmond, Washington
+Mid-America Apartment Communities|Real Estate|Multi-Family Residential REITs|Memphis, Tennessee
+Moderna|Health Care|Biotechnology|Cambridge, Massachusetts
+Mohawk Industries|Consumer Discretionary|Home Furnishings|Calhoun, Georgia
+Molina Healthcare|Health Care|Managed Health Care|Long Beach, California
+Molson Coors Beverage Company|Consumer Staples|Brewers|Chicago, Illinois
+Mondelez International|Consumer Staples|Packaged Foods & Meats|Chicago, Illinois
+Monolithic Power Systems|Information Technology|Semiconductors|Kirkland, Washington
+Monster Beverage|Consumer Staples|Soft Drinks & Non-alcoholic Beverages|Corona, California
+Moody's Corporation|Financials|Financial Exchanges & Data|New York City, New York
+Morgan Stanley|Financials|Investment Banking & Brokerage|New York City, New York
+Mosaic Company |Materials|Fertilizers & Agricultural Chemicals|Tampa, Florida
+Motorola Solutions|Information Technology|Communications Equipment|Chicago, Illinois
+MSCI|Financials|Financial Exchanges & Data|New York City, New York
+Nasdaq,  |Financials|Financial Exchanges & Data|New York City, New York
+NetApp|Information Technology|Technology Hardware, Storage & Peripherals|San Jose, California
+Netflix|Communication Services|Movies & Entertainment|Los Gatos, California
+Newmont|Materials|Gold|Denver, Colorado
+News Corp |Communication Services|Publishing|New York City, New York
+NextEra Energy|Utilities|Multi-Utilities|Juno Beach, Florida
+Nike,  |Consumer Discretionary|Apparel, Accessories & Luxury Goods|Washington County, Oregon
+NiSource|Utilities|Multi-Utilities|Merrillville, Indiana
+Nordson Corporation|Industrials|Industrial Machinery & Supplies & Components|Westlake, Ohio
+Norfolk Southern Railway|Industrials|Rail Transportation|Atlanta, Georgia
+Northern Trust|Financials|Asset Management & Custody Banks|Chicago, Illinois
+Northrop Grumman|Industrials|Aerospace & Defense|West Falls Church, Virginia
+Norwegian Cruise Line Holdings|Consumer Discretionary|Hotels, Resorts & Cruise Lines|Miami, Florida
+NRG Energy|Utilities|Independent Power Producers & Energy Traders|Houston, Texas
+Nucor|Materials|Steel|Charlotte, North Carolina
+Nvidia|Information Technology|Semiconductors|Santa Clara, California
+NVR,  |Consumer Discretionary|Homebuilding|Reston, Virginia
+NXP Semiconductors|Information Technology|Semiconductors|Eindhoven, Netherlands
+O'Reilly Auto Parts|Consumer Discretionary|Automotive Retail|Springfield, Missouri
+Occidental Petroleum|Energy|Oil & Gas Exploration & Production|Houston, Texas
+Old Dominion|Industrials|Cargo Ground Transportation|Thomasville, North Carolina
+Omnicom Group|Communication Services|Advertising|New York City, New York
+ON Semiconductor|Information Technology|Semiconductors|Phoenix, Arizona
+ONEOK|Energy|Oil & Gas Storage & Transportation|Tulsa, Oklahoma
+Oracle Corporation|Information Technology|Application Software|Austin, Texas
+Otis Worldwide|Industrials|Industrial Machinery & Supplies & Components|Farmington, Connecticut
+Paccar|Industrials|Construction Machinery & Heavy Transportation Equipment|Bellevue, Washington
+Packaging Corporation of America|Materials|Paper & Plastic Packaging Products & Materials|Lake Forest, Illinois
+Palantir Technologies|Information Technology|Internet Services & Infrastructure|Denver, Colorado
+Palo Alto Networks|Information Technology|Systems Software|Santa Clara, California
+Paramount Global|Communication Services|Movies & Entertainment|New York City, New York
+Parker Hannifin|Industrials|Industrial Machinery & Supplies & Components|Cleveland, Ohio
+Paychex|Industrials|Human Resource & Employment Services|Penfield, New York
+Paycom|Industrials|Human Resource & Employment Services|Oklahoma City, Oklahoma
+PayPal|Financials|Transaction & Payment Processing Services|San Jose, California
+Pentair|Industrials|Industrial Machinery & Supplies & Components|Worsley, United Kingdom
+PepsiCo|Consumer Staples|Soft Drinks & Non-alcoholic Beverages|Purchase, New York
+Pfizer|Health Care|Pharmaceuticals|New York City, New York
+PG&E Corporation|Utilities|Multi-Utilities|Oakland, California
+Philip Morris International|Consumer Staples|Tobacco|New York City, New York
+Phillips 66|Energy|Oil & Gas Refining & Marketing|Houston, Texas
+Pinnacle West|Utilities|Multi-Utilities|Phoenix, Arizona
+PNC Financial Services|Financials|Diversified Banks|Pittsburgh, Pennsylvania
+Pool Corporation|Consumer Discretionary|Distributors|Covington, Louisiana
+PPG Industries|Materials|Specialty Chemicals|Pittsburgh, Pennsylvania
+PPL Corporation|Utilities|Electric Utilities|Allentown, Pennsylvania
+Principal Financial Group|Financials|Life & Health Insurance|Des Moines, Iowa
+Procter & Gamble|Consumer Staples|Personal Care Products|Cincinnati, Ohio
+Progressive Corporation|Financials|Property & Casualty Insurance|Mayfield Village, Ohio
+Prologis|Real Estate|Industrial REITs|San Francisco, California
+Prudential Financial|Financials|Life & Health Insurance|Newark, New Jersey
+Public Service Enterprise Group|Utilities|Electric Utilities|Newark, New Jersey
+PTC  |Information Technology|Application Software|Boston, Massachusetts
+Public Storage|Real Estate|Self-Storage REITs|Glendale, California
+PulteGroup|Consumer Discretionary|Homebuilding|Atlanta, Georgia
+Qorvo|Information Technology|Semiconductors|Greensboro, North Carolina
+Quanta Services|Industrials|Construction & Engineering|Houston, Texas
+Qualcomm|Information Technology|Semiconductors|San Diego, California
+Quest Diagnostics|Health Care|Health Care Services|Secaucus, New Jersey
+Ralph Lauren Corporation|Consumer Discretionary|Apparel, Accessories & Luxury Goods|New York City, New York
+Raymond James Financial|Financials|Investment Banking & Brokerage|St. Petersburg, Florida
+RTX Corporation|Industrials|Aerospace & Defense|Waltham, Massachusetts
+Realty Income|Real Estate|Retail REITs|San Diego, California
+Regency Centers|Real Estate|Retail REITs|Jacksonville, Florida
+Regeneron Pharmaceuticals|Health Care|Biotechnology|Tarrytown, New York
+Regions Financial Corporation|Financials|Regional Banks|Birmingham, Alabama
+Republic Services|Industrials|Environmental & Facilities Services|Phoenix, Arizona
+ResMed|Health Care|Health Care Equipment|San Diego, California
+Revvity|Health Care|Health Care Equipment|Waltham, Massachusetts
+Rockwell Automation|Industrials|Electrical Components & Equipment|Milwaukee, Wisconsin
+Rollins,  |Industrials|Environmental & Facilities Services|Atlanta, Georgia
+Roper Technologies|Information Technology|Electronic Equipment & Instruments|Sarasota, Florida
+Ross Stores|Consumer Discretionary|Apparel Retail|Dublin, California
+Royal Caribbean Group|Consumer Discretionary|Hotels, Resorts & Cruise Lines|Miami, Florida
+S&P Global|Financials|Financial Exchanges & Data|New York City, New York
+Salesforce|Information Technology|Application Software|San Francisco, California
+SBA Communications|Real Estate|Telecom Tower REITs|Boca Raton, Florida
+Schlumberger|Energy|Oil & Gas Equipment & Services|Houston, Texas
+Seagate Technology|Information Technology|Technology Hardware, Storage & Peripherals|Dublin, Ireland
+Sempra|Utilities|Multi-Utilities|San Diego, California
+ServiceNow|Information Technology|Systems Software|Santa Clara, California
+Sherwin-Williams|Materials|Specialty Chemicals|Cleveland, Ohio
+Simon Property Group|Real Estate|Retail REITs|Indianapolis, Indiana
+Skyworks Solutions|Information Technology|Semiconductors|Irvine, California
+J.M. Smucker Company |Consumer Staples|Packaged Foods & Meats|Orrville, Ohio
+Smurfit WestRock|Materials|Paper & Plastic Packaging Products & Materials|Dublin, Ireland
+Snap-on|Industrials|Industrial Machinery & Supplies & Components|Kenosha, Wisconsin
+Solventum|Health Care|Health Care Technology|Saint Paul, Minnesota
+Southern Company|Utilities|Electric Utilities|Atlanta, Georgia
+Southwest Airlines|Industrials|Passenger Airlines|Dallas, Texas
+Stanley Black & Decker|Industrials|Industrial Machinery & Supplies & Components|New Britain, Connecticut
+Starbucks|Consumer Discretionary|Restaurants|Seattle, Washington
+State Street Corporation|Financials|Asset Management & Custody Banks|Boston, Massachusetts
+Steel Dynamics|Materials|Steel|Fort Wayne, Indiana
+Steris|Health Care|Health Care Equipment|Dublin, Ireland
+Stryker Corporation|Health Care|Health Care Equipment|Kalamazoo, Michigan
+Supermicro|Information Technology|Technology Hardware, Storage & Peripherals|San Jose, California
+Synchrony Financial|Financials|Consumer Finance|Stamford, Connecticut
+Synopsys|Information Technology|Application Software|Sunnyvale, California
+Sysco|Consumer Staples|Food Distributors|Houston, Texas
+T-Mobile US|Communication Services|Wireless Telecommunication Services|Bellevue, Washington
+T. Rowe Price|Financials|Asset Management & Custody Banks|Baltimore, Maryland
+Take-Two Interactive|Communication Services|Interactive Home Entertainment|New York City, New York
+Tapestry,  |Consumer Discretionary|Apparel, Accessories & Luxury Goods|New York City, New York
+Targa Resources|Energy|Oil & Gas Storage & Transportation|Houston, Texas
+Target Corporation|Consumer Staples|Consumer Staples Merchandise Retail|Minneapolis, Minnesota
+TE Connectivity|Information Technology|Electronic Manufacturing Services|Galway, Ireland
+Teledyne Technologies|Information Technology|Electronic Equipment & Instruments|Thousand Oaks, California
+Teleflex|Health Care|Health Care Equipment|Wayne, Pennsylvania
+Teradyne|Information Technology|Semiconductor Materials & Equipment|North Reading, Massachusetts
+Tesla,  |Consumer Discretionary|Automobile Manufacturers|Austin, Texas
+Texas Instruments|Information Technology|Semiconductors|Dallas, Texas
+Texas Pacific Land Corporation|Energy|Oil & Gas Exploration & Production|Dallas, Texas
+Textron|Industrials|Aerospace & Defense|Providence, Rhode Island
+Thermo Fisher Scientific|Health Care|Life Sciences Tools & Services|Waltham, Massachusetts
+TJX Companies|Consumer Discretionary|Apparel Retail|Framingham, Massachusetts
+Tractor Supply|Consumer Discretionary|Other Specialty Retail|Brentwood, Tennessee
+Trane Technologies|Industrials|Building Products|Dublin, Ireland
+TransDigm Group|Industrials|Aerospace & Defense|Cleveland, Ohio
+Travelers Companies |Financials|Property & Casualty Insurance|New York City, New York
+Trimble  |Information Technology|Electronic Equipment & Instruments|Westminster, Colorado
+Truist Financial|Financials|Diversified Banks|Charlotte, North Carolina
+Tyler Technologies|Information Technology|Application Software|Plano, Texas
+Tyson Foods|Consumer Staples|Packaged Foods & Meats|Springdale, Arkansas
+U.S. Bancorp|Financials|Diversified Banks|Minneapolis, Minnesota
+Uber|Industrials|Passenger Ground Transportation|San Francisco, California
+UDR,  |Real Estate|Multi-Family Residential REITs|Highlands Ranch, Colorado
+Ulta Beauty|Consumer Discretionary|Other Specialty Retail|Bolingbrook, Illinois
+Union Pacific Corporation|Industrials|Rail Transportation|Omaha, Nebraska
+United Airlines Holdings|Industrials|Passenger Airlines|Chicago, Illinois
+United Parcel Service|Industrials|Air Freight & Logistics|Sandy Springs, Georgia
+United Rentals|Industrials|Trading Companies & Distributors|Stamford, Connecticut
+UnitedHealth Group|Health Care|Managed Health Care|Minnetonka, Minnesota
+Universal Health Services|Health Care|Health Care Facilities|King of Prussia, Pennsylvania
+Valero Energy|Energy|Oil & Gas Refining & Marketing|San Antonio, Texas
+Ventas|Real Estate|Health Care REITs|Chicago, Illinois
+Veralto|Industrials|Environmental & Facilities Services|Waltham, Massachusetts
+Verisign|Information Technology|Internet Services & Infrastructure|Dulles, Virginia
+Verisk Analytics|Industrials|Research & Consulting Services|Jersey City, New Jersey
+Verizon|Communication Services|Integrated Telecommunication Services|New York City, New York
+Vertex Pharmaceuticals|Health Care|Biotechnology|Boston, Massachusetts
+Viatris|Health Care|Pharmaceuticals|Pittsburgh, Pennsylvania
+Vici Properties|Real Estate|Hotel & Resort REITs|New York City, New York
+Visa  |Financials|Transaction & Payment Processing Services|San Francisco, California
+Vistra Corp.|Utilities|Electric Utilities|Irving, Texas
+Vulcan Materials Company|Materials|Construction Materials|Birmingham, Alabama
+W. R. Berkley Corporation|Financials|Property & Casualty Insurance|Greenwich, Connecticut
+W. W. Grainger|Industrials|Industrial Machinery & Supplies & Components|Lake Forest, Illinois
+Wabtec|Industrials|Construction Machinery & Heavy Transportation Equipment|Pittsburgh, Pennsylvania
+Walgreens Boots Alliance|Consumer Staples|Drug Retail|Deerfield, Illinois
+Walmart|Consumer Staples|Consumer Staples Merchandise Retail|Bentonville, Arkansas
+Walt Disney Company |Communication Services|Movies & Entertainment|Burbank, California
+Warner Bros. Discovery|Communication Services|Broadcasting|New York City, New York
+Waste Management|Industrials|Environmental & Facilities Services|Houston, Texas
+Waters Corporation|Health Care|Life Sciences Tools & Services|Milford, Massachusetts
+WEC Energy Group|Utilities|Electric Utilities|Milwaukee, Wisconsin
+Wells Fargo|Financials|Diversified Banks|San Francisco, California
+Welltower|Real Estate|Health Care REITs|Toledo, Ohio
+West Pharmaceutical Services|Health Care|Health Care Supplies|Exton, Pennsylvania
+Western Digital|Information Technology|Technology Hardware, Storage & Peripherals|San Jose, California
+Weyerhaeuser|Real Estate|Timber REITs|Seattle, Washington
+Williams Companies|Energy|Oil & Gas Storage & Transportation|Tulsa, Oklahoma
+Willis Towers Watson|Financials|Insurance Brokers|London, United Kingdom
+Wynn Resorts|Consumer Discretionary|Casinos & Gaming|Paradise, Nevada
+Xcel Energy|Utilities|Multi-Utilities|Minneapolis, Minnesota
+Xylem  |Industrials|Industrial Machinery & Supplies & Components|White Plains, New York
+Yum! Brands|Consumer Discretionary|Restaurants|Louisville, Kentucky
+Zebra Technologies|Information Technology|Electronic Equipment & Instruments|Lincolnshire, Illinois
+Zimmer Biomet|Health Care|Health Care Equipment|Warsaw, Indiana
+Zoetis|Health Care|Pharmaceuticals|Parsippany, New Jersey
